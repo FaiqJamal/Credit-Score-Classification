@@ -1,0 +1,21 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+.blog-footer {
+  padding: 2.5rem 0;
+  color: #727272;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 0.05rem solid #e5e5e5;
+}
+/*
+* Blog posts
+*/
+.blog-post {
+  margin-bottom: 4rem;
+}
+.blog-post-title {
+  font-size: 2.5rem;
+}
+.blog-post-meta {
+  margin-bottom: 1.25rem;
+  color: #727272;
+}
