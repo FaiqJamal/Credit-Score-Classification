@@ -9,7 +9,7 @@ Credit score classification helps banks and financial institutions evaluate cred
 # Goal
 Leverage ML techniques to enhance decision-making for lenders and improve profitability.
 # Application
-Run the app.py python file in flask environment to check the predictor application. Submit the information to get the credit score prediction of "Poor", "Standard" or "Good".
+Run the app.py python file in flask environment to check the predictor application. Submit the information to get the credit score prediction of "Poor", "Standard" or "Good" depending on customer profile.
 # Team Members
 Alina Nasir http://github.com/Alina-Nasir <br>
 Mydah Nasir http://github.com/Mydah-Nasir
