@@ -8,6 +8,8 @@ Develop a machine learning model to accurately classify credit scores based on c
 Credit score classification helps banks and financial institutions evaluate creditworthiness, detect fraud, reduce risk, and improve loan underwriting.
 # Goal
 Leverage ML techniques to enhance decision-making for lenders and improve profitability.
+# Application
+Run the app.py python file in flask environment to check the predictor application. Submit the information to get the credit score prediction of "Poor", "Standard" or "Good".
 # Team Members
 Alina Nasir http://github.com/Alina-Nasir <br>
 Mydah Nasir http://github.com/Mydah-Nasir
